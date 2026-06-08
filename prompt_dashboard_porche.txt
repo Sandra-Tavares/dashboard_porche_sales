@@ -1,0 +1,33 @@
+utilizando o recurso de canvas, e a tabela em anexo, redenrize uma dashboard em html ao lado
+
+# Filtros
+
+->Modelo da Porche
+
+-> Model Year
+
+-> Pay Method
+colocar os filtros em colunas e um botão para limpar os filtros,
+exemplo linha 1 modelo da porche e model year, linha 2 pay metrod e botão para limpar o filtro
+
+#Perguntas de negócicos e KPIs
+
+-> Quais os principais modelos de carro vendido por cidade
+
+-> Qual o ano  de modelo de carro que mais saiu em um período
+
+-> Quero insight de carros populares de vendas com nos dados em cada cidade
+colocar os kpis em 2 colunas por linha
+
+
+
+sobre o ui/ux, se baseie no site oficial da porche brasil: https:/www.porche.com/brasil/pt/
+
+
+tenha um ar de elegante e refinado
+
+
+corrija qualquer bug que apareça antes de apresentar a versão final.
+usar uma imagem de algum modelo da porche como fundo para o texto de abertura
+
+pergunta 3 crie um gráfico de vendas de maneira evolutiva
